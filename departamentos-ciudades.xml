@@ -1345,7 +1345,7 @@
 <cod_dpto>13</cod_dpto>
 <dpto>BOLIVAR</dpto>
 <cod_mpio>13001</cod_mpio>
-<nom_mpio>CARTAGENA DE INDIAS</nom_mpio>
+<nom_mpio>CARTAGENA</nom_mpio>
 <tipo_municipio>Municipio</tipo_municipio>
 <longitud>-75,496269</longitud>
 <latitud>10,385126</latitud>
@@ -10099,4 +10099,5 @@
 <latitud>4,446352</latitud>
 </row>
 </row>
+
 </response>
