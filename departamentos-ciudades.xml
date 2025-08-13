@@ -1350,6 +1350,15 @@
 <longitud>-75,496269</longitud>
 <latitud>10,385126</latitud>
 </row>
+<row _id="row-p7gj-9zf6~cw4m-2" _uuid="00000000-0000-0000-0CC6-A9398E1BEE19-2" _position="0" _address="https://www.datos.gov.co/resource/gdxc-w37w/row-p7gj-9zf6~cw4m">
+<cod_dpto>13</cod_dpto>
+<dpto>BOLIVAR</dpto>
+<cod_mpio>13001</cod_mpio>
+<nom_mpio>CARTAGENA DE INDIAS</nom_mpio>
+<tipo_municipio>Municipio</tipo_municipio>
+<longitud>-75,496269</longitud>
+<latitud>10,385126</latitud>
+</row>
 <row _id="row-wjbg.nkzr~y4pq" _uuid="00000000-0000-0000-0AF5-CC9754DBCC7E" _position="0" _address="https://www.datos.gov.co/resource/gdxc-w37w/row-wjbg.nkzr~y4pq">
 <cod_dpto>13</cod_dpto>
 <dpto>BOLIVAR</dpto>
@@ -10101,3 +10110,4 @@
 </row>
 
 </response>
+
